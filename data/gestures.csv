@@ -1,0 +1,76 @@
+﻿Name,Symb,Class,TractSystem,Target,Stiffness,TDName
+DEN clo,T̪,C,,,,
+DEN latnar,Ɬ̪,C,,,,
+DEN nar,S̪,C,,,,
+GLO clo,ʔ,C,GLO,0,C,GLO_clo
+GLO nar,H,C,GLO,0.5,C,GLO_nar
+LA clo,P,C,LA,0,C,LA_clo
+LA nar,ɸ,C,LA,0.9,C,LA_nar
+LA op,,C,LA,1,C,LA_op
+LA trill,ʙ,C,LA,0.95,C,LA_trill
+LD clo,P̪,C,,,,
+LD nar,F,C,,,,
+LD ʋ,Ʋ,C,,,,
+LP round,←,R,LP,1,C,LP_round
+LP retr,→,R,LP,0,C,LP_retr
+LX hi,↑,L,LX,1,C,LX_hi
+LX lo,↓,L,LX,0,C,LX_lo
+RF clo,Ʈ,C,RF,0.1,C,RF_clo
+RF nar,S̢,C,RF,0.2,C,RF_nar
+RF ɭ,ɭ,C,,,,
+RF ɻ,ɻ,C,,,,
+TB clo,K̡,C,TBCD,0,C,TBCD_clo
+Tb clo,C,C,,,,
+TB j,J,C,TBCD,0.85,C,TBCD_j
+TB nar,X̡,C,TBCD,0.2,C,TBCD_nar
+Tb nar,Ʃ,C,TTCD,0.2,C,TTCD_bnar
+TB ʎ,ʎ,C,TBCD,0.8,C,TBCD_lat
+TD clo,K,C,TDCD,0,C,TDCD_clo
+TD ʟ,ʟ,C,TDCD,0.8,C,TDCD_lat
+TD ɰ,ɰ,C,TDCD,0.85,C,TDCD_appr
+TD nar,X,C,TDCD,0.2,C,TDCD_nar
+TR clo,ʡ,C,,,,
+TR nar,Ħ,C,TRCD,0.25,V,TRCD_nar
+TR trill,ʜ,C,,,,
+TT clo,T,C,TTCD,0.1,C,TTCD_clo
+TT l,L,C,TTCD,0.8,C,TTCD_l
+TT latnar,Ɬ,C,,,,
+TT nar,S,C,TTCD,0.2,C,TTCD_nar
+TT r,ɹ,C,TTCD,0.8,C,TTCD_r
+TT trill,R,C,,,,
+UV clo,Q,C,,,,
+UV nar,Χ,C,,,,
+UV trill,Ʀ,C,,,,
+TT op,,C,TTCD,1,C,TTCD_op
+GLO ab,○,G,GLO,1,C,GLO_ab
+GLO ad,⦶,G,GLO,1,C,GLO_ad
+VEL clo,⧅,N,VEL,0,C,VEL_clo
+VEL op,□,N,VEL,1,C,VEL_op
+ɛ,ɛ,V,TBCD,0.6,V,TBCD_eh
+i,i,V,TBCD,0.85,V,TBCD_i
+ɪ,ɪ,V,TBCD,0.8,V,TBCD_ih
+a,a,V,TRCD,0.25,V,TRCD_a
+ɐ,ɐ,V,,,,
+ɑ,ɑ,V,TRCD,0.2,V,TRCD_aa
+ɒ,ɒ,V,,,,
+æ,æ,V,TBCD,0.5,V,TBCD_ae
+ɔ,ɔ,V,TDCD,0.6,V,TDCD_ao
+e,e,V,TBCD,0.7,V,TBCD_e
+ə,ə,V,TDCD,0.65,V,TDCD_ax
+ɘ,ɘ,V,,,,
+ɜ,ɜ,V,,,,
+ɞ,ɞ,V,,,,
+ɤ,ɤ,V,TDCD,0.7,V,TDCD_oo
+ɨ,ɨ,V,,,,
+ɯ,ɯ,V,TDCD,0.85,V,TDCD_uu
+o,o,V,TDCD,0.7,V,TDCD_o
+ɵ,ɵ,V,,,,
+ø,ø,V,TBCD,0.7,V,TBCD_eu
+ɶ,ɶ,V,,,,
+œ,œ,V,TBCD,0.6,V,TBCD_oe
+u,u,V,TDCD,0.85,V,TDCD_u
+ʉ,ʉ,V,,,,
+ʊ,ʊ,V,TDCD,0.8,V,TDCD_uh
+ʌ,ʌ,V,TDCD,0.6,V,TDCD_ah
+y,y,V,TBCD,0.85,V,TBCD_y
+ʏ,ʏ,V,TBCD,0.8,V,TBCD_yh

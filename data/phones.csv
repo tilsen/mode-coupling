@@ -1,0 +1,157 @@
+﻿Symb,Name,colname,rowname,type,place,English
+p,,Bilabial,Plosive,pulmonic consonant,Bilabial,1
+ɸ,,Bilabial,Fricative,pulmonic consonant,Bilabial,
+m,,Bilabial_voiced,Nasal,pulmonic consonant,Bilabial,1
+b,,Bilabial_voiced,Plosive,pulmonic consonant,Bilabial,1
+β,,Bilabial_voiced,Fricative,pulmonic consonant,Bilabial,
+ʙ,,Bilabial_voiced,Trill,pulmonic consonant,Bilabial,
+p͡f,,Labiodental,Affricate,pulmonic consonant,Labiodental,
+f,,Labiodental,Fricative,pulmonic consonant,Labiodental,1
+ɱ,,Labiodental_voiced,Nasal,pulmonic consonant,Labiodental,
+b͡v,,Labiodental_voiced,Affricate,pulmonic consonant,Labiodental,
+v,,Labiodental_voiced,Fricative,pulmonic consonant,Labiodental,1
+ʋ,,Labiodental_voiced,Approximant,pulmonic consonant,Labiodental,
+ⱱ,,Labiodental_voiced,"Tap, flap",pulmonic consonant,Labiodental,
+t̪,td,Dental,Plosive,pulmonic consonant,Dental,1
+t̪͡s̪,,Dental,Affricate,pulmonic consonant,Dental,
+θ,th,Dental,Fricative,pulmonic consonant,Dental,1
+t͡ɬ,,Alveolar,Lateral affricate,pulmonic consonant,Alveolar,
+ɬ,,Alveolar,Lateral fricative,pulmonic consonant,Alveolar,
+d̪͡z̪,,Dental_voiced,Affricate,pulmonic consonant,Dental,
+ð,dh,Dental_voiced,Fricative,pulmonic consonant,Dental,1
+t͡s,ts,Alveolar,Affricate,pulmonic consonant,Alveolar,
+s,,Alveolar,Fricative,pulmonic consonant,Alveolar,1
+n,,Alveolar_voiced,Nasal,pulmonic consonant,Alveolar,1
+d,,Alveolar_voiced,Plosive,pulmonic consonant,Alveolar,1
+t,,Alveolar,Plosive,pulmonic consonant,Alveolar,1
+d͡z,dz,Alveolar_voiced,Affricate,pulmonic consonant,Alveolar,
+z,,Alveolar_voiced,Fricative,pulmonic consonant,Alveolar,1
+ɹ,r,Alveolar_voiced,Approximant,pulmonic consonant,Alveolar,1
+ɾ,,Alveolar_voiced,"Tap, flap",pulmonic consonant,Alveolar,
+r,tr,Alveolar_voiced,Trill,pulmonic consonant,Alveolar,
+d͡ɮ,,Alveolar_voiced,Lateral affricate,pulmonic consonant,Alveolar,
+ɮ,,Alveolar_voiced,Lateral fricative,pulmonic consonant,Alveolar,
+l,,Alveolar_voiced,Lateral approximant,pulmonic consonant,Alveolar,1
+t͡ʃ,ch,Postalveolar,Affricate,pulmonic consonant,Postalveolar,1
+ʃ,sh,Postalveolar,Fricative,pulmonic consonant,Postalveolar,1
+d͡ʒ,jh,Postalveolar_voiced,Affricate,pulmonic consonant,Postalveolar,1
+ʒ,zh,Postalveolar_voiced,Fricative,pulmonic consonant,Postalveolar,1
+ʈ,,Retroflex,Plosive,pulmonic consonant,Retroflex,
+ʈ͡ʂ,,Retroflex,Affricate,pulmonic consonant,Retroflex,
+ʂ,,Retroflex,Fricative,pulmonic consonant,Retroflex,
+ɳ,,Retroflex_voiced,Nasal,pulmonic consonant,Retroflex,
+ɖ,,Retroflex_voiced,Plosive,pulmonic consonant,Retroflex,
+ɖ͡ʐ,,Retroflex_voiced,Affricate,pulmonic consonant,Retroflex,
+ʐ,,Retroflex_voiced,Fricative,pulmonic consonant,Retroflex,
+ɻ,,Retroflex_voiced,Approximant,pulmonic consonant,Retroflex,
+ɽ,,Retroflex_voiced,"Tap, flap",pulmonic consonant,Retroflex,
+ɭ,,Retroflex_voiced,Lateral approximant,pulmonic consonant,Retroflex,
+c,,Alveolo_palatal,Plosive,pulmonic consonant,Alveolo_palatal,
+t͡ɕ,,Alveolo_palatal,Affricate,pulmonic consonant,Alveolo_palatal,
+ɕ,,Alveolo_palatal,Fricative,pulmonic consonant,Alveolo_palatal,
+d͡ʑ,,Alveolo_palatal_voiced,Affricate,pulmonic consonant,Alveolo_palatal,
+ʑ,,Alveolo_palatal_voiced,Fricative,pulmonic consonant,Alveolo_palatal,
+ɲ,,Palatal,Nasal,pulmonic consonant,Palatal,
+ɟ,,Palatal,Plosive,pulmonic consonant,Palatal,
+ç,,Palatal,Fricative,pulmonic consonant,Palatal,
+j,,Palatal,Approximant,pulmonic consonant,Palatal,1
+ʎ,,Palatal,Lateral approximant,pulmonic consonant,Palatal,
+ʝ,,Palatal_voiced,Fricative,pulmonic consonant,Palatal,
+k,,Velar,Plosive,pulmonic consonant,Velar,1
+k͡x,,Velar,Affricate,pulmonic consonant,Velar,
+x,,Velar,Fricative,pulmonic consonant,Velar,
+ŋ,ng,Velar_voiced,Nasal,pulmonic consonant,Velar,1
+g,,Velar_voiced,Plosive,pulmonic consonant,Velar,1
+ɣ,,Velar_voiced,Fricative,pulmonic consonant,Velar,
+ɰ,,Velar_voiced,Approximant,pulmonic consonant,Velar,
+ʟ,,Velar_voiced,Lateral approximant,pulmonic consonant,Velar,
+q,,Uvular,Plosive,pulmonic consonant,Uvular,
+χ,,Uvular,Fricative,pulmonic consonant,Uvular,
+ɴ,,Uvular_voiced,Nasal,pulmonic consonant,Uvular,
+ɢ,,Uvular_voiced,Plosive,pulmonic consonant,Uvular,
+ʁ,,Uvular_voiced,Fricative,pulmonic consonant,Uvular,
+ʀ,,Uvular_voiced,Trill,pulmonic consonant,Uvular,
+ʡ,,Pharyngeal,Plosive,pulmonic consonant,Pharyngeal,
+ħ,,Pharyngeal,Fricative,pulmonic consonant,Pharyngeal,
+ʜ,,Pharyngeal,Trill,pulmonic consonant,Pharyngeal,
+ʕ,,Pharyngeal_voiced,Fricative,pulmonic consonant,Pharyngeal,
+ʢ,,Pharyngeal_voiced,Trill,pulmonic consonant,Pharyngeal,
+ʔ,?,Glottal,Plosive,pulmonic consonant,Glottal,1
+h,,Glottal,Fricative,pulmonic consonant,Glottal,1
+ɦ,,Glottal_voiced,Fricative,pulmonic consonant,Glottal,
+ʘ,,Clicks,,non-pulmonic consonant,Clicks,
+ǀ,,Clicks,,non-pulmonic consonant,Clicks,
+ǃ,,Clicks,,non-pulmonic consonant,Clicks,
+ǂ,,Clicks,,non-pulmonic consonant,Clicks,
+ǁ,,Clicks,,non-pulmonic consonant,Clicks,
+ɓ,b`,Implosives,,non-pulmonic consonant,Implosives,
+ɗ,d`,Implosives,,non-pulmonic consonant,Implosives,
+ʄ,j`,Implosives,,non-pulmonic consonant,Implosives,
+ɠ,g`,Implosives,,non-pulmonic consonant,Implosives,
+ʛ,G`,Implosives,,non-pulmonic consonant,Implosives,
+pʼ,p',Ejectives,,non-pulmonic consonant,Ejectives,
+tʼ,t',Ejectives,,non-pulmonic consonant,Ejectives,
+kʼ,k',Ejectives,,non-pulmonic consonant,Ejectives,
+sʼ,s',Ejectives,,non-pulmonic consonant,Ejectives,
+i,,Front,Close,vowel,Front,1
+e,,Front,Close-Mid,vowel,Front,1
+ɛ,eh,Front,Open-Mid,vowel,Front,1
+æ,ae,Front,Near-Open,vowel,Front,1
+a,,Front,Open,vowel,Front,1
+y,,Front_round,Close,vowel,Front,
+ø,eu,Front_round,Close-Mid,vowel,Front,
+œ,oe,Front_round,Open-Mid,vowel,Front,
+ɶ,,Front_round,Open,vowel,Front,
+ɪ,ih,Near_Front,Near-Close,vowel,Near_Front,1
+ʏ,yh,Near_Front_round,Near-Close,vowel,Near_Front,
+ɨ,,Central,Close,vowel,Central,
+ɘ,,Central,Close-Mid,vowel,Central,
+ə,ax,Central,Mid,vowel,Central,1
+ɜ,,Central,Open-Mid,vowel,Central,
+ɐ,,Central,Near-Open,vowel,Central,
+ʉ,,Central_round,Close,vowel,Central,
+ɵ,,Central_round,Close-Mid,vowel,Central,
+ɞ,,Central_round,Open-Mid,vowel,Central,
+ʊ,uh,Near_Back_round,Near-Close,vowel,Near_Back,1
+ɯ,uu,Back,Close,vowel,Back,
+ɤ,oo,Back,Close-Mid,vowel,Back,
+ʌ,ah,Back,Open-Mid,vowel,Back,1
+ɑ,aa,Back,Open,vowel,Back,1
+u,,Back_round,Close,vowel,Back,1
+o,,Back_round,Close-Mid,vowel,Back,1
+ɔ,ao,Back_round,Open-Mid,vowel,Back,1
+ɒ,,Back_round,Open,vowel,Back,
+ĩ,i~,Front,Close,vowel,Front,1
+ẽ,e~,Front,Close-Mid,vowel,Front,1
+ɛ̃,eh~,Front,Open-Mid,vowel,Front,1
+æ̃,ae~,Front,Near-Open,vowel,Front,1
+ã,a~,Front,Open,vowel,Front,1
+ỹ,y~,Front_round,Close,vowel,Front,
+ø̃,eu~,Front_round,Close-Mid,vowel,Front,
+œ̃,oe~,Front_round,Open-Mid,vowel,Front,
+ɶ̃,ɶ~,Front_round,Open,vowel,Front,
+ɪ̃,ih~,Near_Front,Near-Close,vowel,Near_Front,1
+ʏ̃,yh~,Near_Front_round,Near-Close,vowel,Near_Front,
+ɨ̃,ɨ~,Central,Close,vowel,Central,
+ɘ̃,ɘ~,Central,Close-Mid,vowel,Central,
+ə̃,ax~,Central,Mid,vowel,Central,1
+ɜ̃,ɜ~,Central,Open-Mid,vowel,Central,
+ɐ̃,ɐ~,Central,Near-Open,vowel,Central,
+ʉ̃,ʉ~,Central_round,Close,vowel,Central,
+ɵ̃,ɵ~,Central_round,Close-Mid,vowel,Central,
+ɞ̃,ɞ~,Central_round,Open-Mid,vowel,Central,
+ʊ̃,uh~,Near_Back_round,Near-Close,vowel,Near_Back,1
+ɯ̃,uu~,Back,Close,vowel,Back,
+ɤ̃,oo~,Back,Close-Mid,vowel,Back,
+ʌ̃,ah~,Back,Open-Mid,vowel,Back,1
+ɑ̃,aa~,Back,Open,vowel,Back,1
+ũ,u~,Back_round,Close,vowel,Back,1
+õ,o~,Back_round,Close-Mid,vowel,Back,1
+ɔ̃,ao~,Back_round,Open-Mid,vowel,Back,1
+ɒ̃,ɒ~,Back_round,Open,vowel,Back,
+pʷ,pw,Bilabial,Plosive,pulmonic consonant,Bilabial,
+bʷ,bw,Bilabial_voiced,Plosive,pulmonic consonant,Bilabial,
+tʷ,tw,Alveolar,Plosive,pulmonic consonant,Alveolar,
+dʷ,dw,Alveolar_voiced,Plosive,pulmonic consonant,Alveolar,
+kʷ,kw,Velar,Plosive,pulmonic consonant,Velar,
+gʷ,gw,Velar_voiced,Plosive,pulmonic consonant,Velar,

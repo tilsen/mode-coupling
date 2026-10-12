@@ -1,0 +1,9 @@
+term,value,label,manual
+unbound,90,unbound gestural energy,50
+adaptation,23,frequency adaptation,10
+dependency,23,dependency energy,8
+exclusion,12,exclusion principle,20
+nucleic,3,nucleic occupation energy,5
+phonotactics,1.6,phonotactic constraint energy,3
+bound,1,bound gestural energy,1
+phasebias,0.06,consonantal in-phase coupling bias,0.01

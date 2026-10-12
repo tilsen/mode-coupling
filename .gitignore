@@ -1,0 +1,12 @@
+*.mat
+*.asv
+*.zip
+*.html
+*.mlx
+tmp/
+
+# plotting regression tests: kept on disk, out of the repo
+plotting/tests/
+
+.claude/*
+!.claude/settings.json

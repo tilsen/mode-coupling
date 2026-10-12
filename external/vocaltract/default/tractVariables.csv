@@ -1,0 +1,13 @@
+﻿name,x0,x1,y0,y1,halign,valign
+LA,25,25,108,97,center,top
+LP,15,25,103,103,center,bottom
+TTCD,49,55,115,104,left,bottom
+TTCL,42,58,111,120,center,bottom
+TBCD,83,83,128,112,right,bottom
+TBCL,75,91,128,128,center,bottom
+TDCD,116,125,99,108,right,bottom
+TDCL,118,132,116,99,center,bottom
+TRCD,134,160,58,58,center,bottom
+TRCL,160,160,50,64,center,top
+VEL,149,164,89,95,center,bottom
+GLO,136,154,5,5,center,bottom

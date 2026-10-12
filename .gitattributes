@@ -1,0 +1,6 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Shell scripts keep LF: manuscript/build.sh runs under WSL, and a CRLF
+# shebang makes it fail with "bad interpreter".
+*.sh text eol=lf
